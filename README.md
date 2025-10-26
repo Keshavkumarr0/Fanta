@@ -20,9 +20,6 @@ It’s designed to highlight **UI animations, color blending, and playful visual
 - 💫 Parallax, hover, and scroll-based motion effects  
 - 🧑‍💻 Built purely with **HTML, CSS, and JavaScript**
 
----
-
-## 📂 Project Structure
 
 
 
