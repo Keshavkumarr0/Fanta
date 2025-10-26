@@ -33,3 +33,13 @@ cd Fanta
 # Run using a local server (e.g., VS Code Live Server)
 Then open index.html in your browser 🎉
 
+
+  💡 Purpose
+
+This project was created to:
+
+Practice frontend animation and motion design
+
+Explore creative web layouts
+
+Enhance visual storytelling through code
