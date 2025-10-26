@@ -21,5 +21,15 @@ It’s designed to highlight **UI animations, color blending, and playful visual
 - 🧑‍💻 Built purely with **HTML, CSS, and JavaScript**
 
 
+## ⚙️ How to Run Locally
 
+```bash
+# Clone this repository
+git clone https://github.com/Keshavkumarr0/Fanta.git
+
+# Open the folder
+cd Fanta
+
+# Run using a local server (e.g., VS Code Live Server)
+Then open index.html in your browser 🎉
 
